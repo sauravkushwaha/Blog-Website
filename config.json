@@ -10,12 +10,12 @@
     "blog_name": "My-Blog",
     "zxc_name": "saurav",
     "gmail-user": "anni2001kushwaha@gmail.com",
-    "gmail-password":"saurav@979",
+    "gmail-password":"XXXXXXX",
     "about_text": "Hi my name is saurav and I create website and I am a good boy",
     "no_of_posts": 3,
     "login_image": "sau.png",
     "admin_user":"saurav",
-    "admin_password": "12345678",
+    "admin_password": "xxxxxxxxx",
     "upload_location": "C:\\Users\\Lenovo\\PycharmProjects\\Flask-tut\\static"
   }
 }
